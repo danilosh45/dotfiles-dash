@@ -5,3 +5,4 @@ fish_plugins
 fish_variables
 _tide_init.fish
 tide/
+.DS_Store
